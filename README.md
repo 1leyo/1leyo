@@ -1,4 +1,8 @@
-- Leo W. - 19 year old student based in Germany.
-- studying computer science and design
-- currently working with Java and JavaScript
-- interested in web development and software engineering
+const leow = {
+  name: "Leo",
+  location: "Germany",
+  status: "student",
+  studying: ["computer science", "design"],
+  programmingLanguages: ["Java", "JavaScript"],
+  interests: ["Software Engineering", "Web Development"]
+}
