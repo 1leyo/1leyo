@@ -1,1 +1,4 @@
-# Leo W. - 19 year old student based in Germany.
+- Leo W. - 19 year old student based in Germany.
+- studying computer science and design
+- currently working with Java and JavaScript
+- interested in web development and software engineering
