@@ -6,4 +6,5 @@ const leow = {
   studying: ["computer science", "design"],
   programmingLanguages: ["Java", "JavaScript"],
   interests: ["Software Engineering", "Web Development"]
-}
+};
+```
