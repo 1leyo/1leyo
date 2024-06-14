@@ -1,4 +1,4 @@
-```
+```javascript
 const leow = {
   name: "Leo",
   location: "Germany",
