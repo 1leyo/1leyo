@@ -1,1 +1,1 @@
-Leo "leyo" W. - 19 years old - germany
+# Leo W. - 19 year old student based in Germany.
