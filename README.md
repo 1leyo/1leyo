@@ -1,6 +1,7 @@
 ```javascript
 const leow = {
   name: "Leo",
+  age: 19,
   location: "Germany",
   status: "student",
   studying: ["computer science", "design"],
