@@ -1,5 +1,5 @@
 ```javascript
-const leow = {
+const aboutme = {
   name: "Leo",
   age: 19,
   location: "Germany",
