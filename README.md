@@ -5,7 +5,7 @@ const aboutme = {
   location: "Germany",
   status: "student",
   studying: ["computer science", "design"],
-  programmingLanguages: ["Java", "JavaScript"],
+  programmingLanguages: ["Java", "JavaScript", "Swift"],
   interests: ["Software Engineering", "Web Development"]
 };
 ```
