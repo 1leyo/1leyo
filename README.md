@@ -6,6 +6,7 @@ const aboutme = {
   status: "student",
   studying: ["computer science", "design"],
   programmingLanguages: ["Java", "JavaScript", "Swift", "TypeScript"],
-  interests: ["Software Engineering", "Web Development"]
+  interests: ["Software Engineering", "Web Development"],
+  contact: { discord: "leyo96" }
 };
 ```
