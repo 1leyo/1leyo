@@ -1,7 +1,7 @@
 ```typescript
 const aboutMe = {
   name: "Leo",
-  age: 20,
+  age: 21,
   location: "Germany",
   status: "student",
   studying: ["computer science", "design"],
