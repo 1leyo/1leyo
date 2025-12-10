@@ -4,6 +4,8 @@
   <a href="https://matrix.to/#/@leyo:matrix.org" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/badge/Matrix-000000?logo=matrix&logoColor=white&style=for-the-badge" height="40" /></a>
   <img width="6" />
   <a href="mailto:contact@leyo.dev" style="text-decoration:none;"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=white&style=for-the-badge" height="40" /></a>
+
+  <p>21 y/o CS & Design student from Bavaria, Germany</p>
 </div>
 
 ---
