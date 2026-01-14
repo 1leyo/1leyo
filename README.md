@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://github.com/1leyo/1leyo/blob/rework-2026/assets/pfp.png?raw=true" />
+  <img height="250" src="https://github.com/1leyo/1leyo/blob/main/assets/pfp.png?raw=true" />
   
   <a href="https://matrix.to/#/@leyo:matrix.org" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/badge/Matrix-000000?logo=matrix&logoColor=white&style=for-the-badge" height="40" /></a>
   <img width="6" />
