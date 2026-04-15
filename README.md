@@ -4,7 +4,6 @@
   <a href="https://matrix.to/#/@leyo:matrix.org" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/badge/Matrix-000000?logo=matrix&logoColor=white&style=for-the-badge" height="40" /></a>
   <img width="6" />
   <a href="mailto:contact@leyo.dev" style="text-decoration:none;"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=white&style=for-the-badge" height="40" /></a>
-
   <p>21 y/o CS & Design student from Bavaria, Germany</p>
 </div>
 
@@ -12,25 +11,27 @@
 
 <div align="left">
   <h4>I Write Code In</h4>
-
   <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge" height="40" />
   <img width="6" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" />
   <img width="6" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" height="40" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" />
-
   <h4>I Build Apps With</h4>
-
   <img src="https://img.shields.io/badge/SwiftUI-0A84FF?logo=swift&logoColor=white&style=for-the-badge" height="40" />
   <img width="6" />
   <img src="https://img.shields.io/badge/Vapor-0D0D0D?logo=vapor&logoColor=white&style=for-the-badge" height="40" />
   <img width="6" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" height="40" />
+  <img width="6" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" />
-
-
   <h4>I Deploy & Run Things On</h4>
-
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" />
   <img width="6" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?logo=traefikproxy&logoColor=white&style=for-the-badge" height="40" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" />
 </div>
